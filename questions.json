@@ -1,0 +1,103 @@
+{
+  "questions": [
+    {
+      "topic": "React",
+      "question": "What is the purpose of React's useState hook?",
+      "options": {
+        "a": "To fetch data from an API",
+        "b": "To manage component state",
+        "c": "To update the DOM directly",
+        "d": "To handle side effects"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "React",
+      "question": "Which lifecycle method is invoked immediately after updating occurs in a class component?",
+      "options": {
+        "a": "componentDidMount",
+        "b": "componentWillUnmount",
+        "c": "componentDidUpdate",
+        "d": "shouldComponentUpdate"
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "React",
+      "question": "What is JSX?",
+      "options": {
+        "a": "A templating engine for JavaScript",
+        "b": "A syntax extension for JavaScript",
+        "c": "A module bundler for React",
+        "d": "A library for creating UI components"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Redux",
+      "question": "In Redux, what is the purpose of a reducer?",
+      "options": {
+        "a": "To modify the component state",
+        "b": "To reduce the amount of code needed",
+        "c": "To describe how the application's state changes in response to actions",
+        "d": "To handle side effects like API calls"
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "Redux",
+      "question": "What is the primary role of an action in Redux?",
+      "options": {
+        "a": "To describe state changes",
+        "b": "To store application state",
+        "c": "To handle middleware logic",
+        "d": "To trigger the UI re-render"
+      },
+      "answer": "a"
+    },
+    {
+      "topic": "Redux",
+      "question": "Which method is used to send an action to the Redux store?",
+      "options": {
+        "a": "createStore",
+        "b": "dispatch",
+        "c": "getState",
+        "d": "subscribe"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Node.js",
+      "question": "What is the role of the event loop in Node.js?",
+      "options": {
+        "a": "To execute code synchronously",
+        "b": "To handle I/O operations asynchronously",
+        "c": "To block the execution of code",
+        "d": "To start the server"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Node.js",
+      "question": "Which module is used to work with file systems in Node.js?",
+      "options": {
+        "a": "http",
+        "b": "fs",
+        "c": "path",
+        "d": "stream"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Node.js",
+      "question": "What does the 'npm start' command do?",
+      "options": {
+        "a": "Starts the Node.js application using the default script",
+        "b": "Installs the required dependencies",
+        "c": "Runs unit tests",
+        "d": "Builds the project for production"
+      },
+      "answer": "a"
+    }
+  ]
+}
